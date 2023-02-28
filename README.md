@@ -10,3 +10,5 @@ Commands for preparing the enviornment (Assuming you are in the main folder e.g.
 7. (From grpc-client folder e.g. seperate ssh connection) chmod 777 mvnw
 8. (From grpc-client folder e.g. seperate ssh connection) ./mvnw spring-boot:run -Dmaven.test.skip=true
 
+https://github.com/Candle-Wick/ECS656U-796PLab2StartingPoint
+
